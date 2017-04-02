@@ -13,12 +13,11 @@ body {
 }
 
 footer {
-    font-size: 12px;
+    font-size: 11px;
     color: white;
-    width: 290px;
+    width: 300px;
     position: relative;
     float: right;
-    right: 15px;
 }
 
 footer a {
