@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Gudea);
+@import url(https://fonts.googleapis.com/css?family=Gudea);
 html {
     background: #EA5C54;
     background: linear-gradient(135deg, #EA5C54 0%, #bb6dec 100%);
@@ -13,11 +13,12 @@ body {
 }
 
 footer {
-    font-size: 11px;
+    font-size: 12px;
     color: white;
-    width: 300px;
+    width: 310px;
     position: relative;
     float: right;
+    right: 15px;
 }
 
 footer a {
