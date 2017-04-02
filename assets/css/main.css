@@ -26,6 +26,10 @@ footer a {
     color: white;
 }
 
+.icon {
+    margin-top: 5px;
+}
+
 #login-form {
     background: #242734;
     margin: 100px auto 90px;
